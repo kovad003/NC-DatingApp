@@ -1,6 +1,6 @@
 # fly.toml file generated for da-course on 2022-11-18T12:14:21+07:00
 
-app = "nc-datingapp-test"
+app = "nc-datingapp"
 primary_region = "ams"
 kill_signal = "SIGINT"
 kill_timeout = 5
