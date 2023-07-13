@@ -476,3 +476,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 API/appsettings.json
+appsettings.json
+.idea/.idea.DatingApp/.idea/indexLayout.xml
+.idea/.idea.DatingApp/.idea/projectSettingsUpdater.xml
+.idea/.idea.DatingApp/.idea/workspace.xml
